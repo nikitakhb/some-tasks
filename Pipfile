@@ -9,6 +9,7 @@ environ = "*"
 django-environ = "*"
 psycopg2-binary = "*"
 djangorestframework = "*"
+django-rest-auth = "*"
 
 [dev-packages]
 
